@@ -1,0 +1,486 @@
+id,name,ENTR,HIST,NSCI,TECH,ECMY,SSCI,HLTH,CSMR,GOVM,RELG,CULT,FOOD,SPRT,GEOG,ECOL,PPLE
+674,"Anatomy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1537,"Acupuncture",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1845,"Alternative medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1914,"Antimicrobial resistance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2909,"Albinism in humans",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4191,"BCG vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8005,"Dentistry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9059,"Dementia praecox",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11296,"First aid",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18957,"Medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+30919,"Triage",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+32653,"Vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+32654,"Veterinary medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52975,"Emergency medical services",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55937,"Glossary of communication disorders",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+56345,"Glossary of diabetes",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69149,"MMR vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69719,"Band-Aid",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+80381,"Health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+83877,"Enema",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+89198,"Alcohol dehydrogenase",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+146381,"Advanced cardiac life support",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+147473,"HIV vaccine development",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+166814,"Livor mortis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+166840,"Abdominal thrusts",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+224985,"Built environment",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+235571,"Algor mortis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+236137,"Activities of daily living",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+261925,"Health care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+288156,"List of forms of alternative medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+348268,"Crisis management",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+364655,"Timeline of human vaccines",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+366654,"Lists of hospitals in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+406118,"Bright's disease",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+417652,"Post-coital tristesse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+500263,"Certified first responder",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+523680,"Stretcher",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+533364,"Normal for Norfolk",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+562259,"List of eponymous diseases",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+581687,"Basic life support",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+604783,"Seroconversion",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+627246,"History of alternative medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+685936,"Torsades de pointes",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+716550,"Breslow's depth",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+731879,"List of eponymous medical signs",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+791464,"Walter Reed Army Medical Center",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+793631,"Cancer vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+876719,"DPT vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+900035,"Dipsomania",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+918941,"Richard Carmona",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+923164,"Spinal board",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+923208,"Vacuum mattress",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+925356,"Assisted living",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+943960,"Casualty movement",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+943964,"Casualty lifting",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+968873,"Artificial ventilation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+981225,"Nocebo",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1024353,"Casualty evacuation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1043627,"Biomedicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1045705,"Influenza vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1046445,"Malaise",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1054520,"Hatzalah",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1073824,"Live attenuated influenza vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1074911,"AVPU",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1124725,"List of hospitals in Washington, D.C.",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1130069,"MeNZB",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1145738,"Kendrick extrication device",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1158636,"Scoop stretcher",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1163474,"Emergency physician",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1184289,"Babysitting",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1233875,"Health of Adolf Hitler",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1370590,"Medical slang",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1465195,"List of clinically important bacteria",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1524906,"Animal bite",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1564273,"George Washington University Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1666888,"Tewksbury Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1705387,"Health of Charles Darwin",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1773453,"Drapetomania",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1892313,"List of seasonal influenza vaccines",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1897067,"Health of Pope John Paul II",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1915056,"Abrasion (dental)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1950676,"List of Veterans Affairs medical facilities",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+1976739,"Health effect",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2036259,"Glossary of manias",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2054607,"Age of onset",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2114227,"List of vaccine topics",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2114377,"Outline of autism",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2204869,"Arkansas Children's Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2294938,"Zebra (medicine)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2298521,"Dysaesthesia aethiopica",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2319812,"Gay-related immune deficiency",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2464377,"Emily Blackwell",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2597613,"Nothing by mouth",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2660890,"Medical geography",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2772469,"Alcohol education",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2790769,"Coordinated Incident Management System",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2824604,"Pallor mortis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2857491,"Avicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3094284,"Bee sting",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3127042,"Behavioral medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3187155,"Alcohol and health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3208614,"Betaarterivirus suid 1",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3318239,"Glossary of psychiatry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3330375,"Anthrax vaccines",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3524059,"ABC (medicine)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3556804,"St John Ambulance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3568755,"Incident management",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3626760,"Campaign for Access to Essential Medicines",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4194074,"Dental notation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4235768,"Manhattan Eye, Ear and Throat Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4319477,"List of cigarette smoke carcinogens",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4419346,"Children's National Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4573741,"Acute pericarditis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4593785,"Clinical engineering",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4754849,"Bovine alphaherpesvirus 1",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4829384,"Universal Numbering System",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4829828,"FDI World Dental Federation notation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4840281,"MMRV vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+4873558,"Amosan",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5070529,"Anatid herpesvirus 1",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5089337,"Acute abdomen",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5092288,"Boracic lint",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5104973,"AEMT-CC",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5144071,"Autoeczematization",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5335881,"Children's Hospital Association",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5840285,"Decubitus",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+5911971,"Luis F. Álvarez",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6003061,"List of additives in cigarettes",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6045553,"Convalescence",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6090406,"Delirium tremens",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6092313,"Massachusetts Eye and Ear",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6198688,"Medical terminology",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6286678,"Certified Flight Paramedic",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6297778,"Russell Howarth",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6460534,"Akron Children's Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6524280,"Atypia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6600576,"Alternative cancer treatments",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6757063,"Cervarix",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6950786,"Blockley Almshouse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6962050,"Hepatitis A and B vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+6979984,"Litter (rescue basket)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7405630,"Australasian Inter-Service Incident Management System",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7463394,"Palmer notation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7472359,"Chronic care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7614929,"Decussation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7697517,"College health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7948403,"John Bockoven",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+7994049,"Aid station",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8113924,"Pontifical Council for the Pastoral Care of Health Care Workers",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8217313,"Howard University Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8218377,"Arnold Palmer Hospital for Children",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8470143,"Anti-idiotypic vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8538751,"Sibley Memorial Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8611983,"List of medical roots, suffixes and prefixes",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+8844881,"Alcohol enema",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9005643,"Caregiver",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9040437,"Greene County Almshouse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9448987,"Glossary of phytopathology",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9915335,"HIV Vaccine Trials Network",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+9978334,"AIDSVAX",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+10216813,"Glossary of dentistry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+10547029,"Computer security incident management",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11005395,"List of acupuncture points",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11172453,"Ante's law",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11365279,"Attenuated vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11395569,"Live vector vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11396516,"Hospital incident command system (US)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11567159,"New York Eye and Ear Infirmary",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11670572,"Aggregatibacter actinomycetemcomitans",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+11822212,"Blanch (medical)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+12256809,"Health care in Argentina",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+12630375,"Alcohol detoxification",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+12686484,"Drug policy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+12947073,"Hepatitis B vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+12947179,"Hepatitis A vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13186976,"Guttae (medical)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13220275,"Battlefield Advanced Trauma Life Support",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13430526,"GeoVax",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13496989,"Barry University School of Podiatric Medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13746759,"Health care in Australia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+13799972,"Catholic Health Association of the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14001987,"Lincoln Hospital (Bronx)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14129618,"Acronyms in healthcare",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14343558,"Axillary joints",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14400636,"ALVAC-CEA vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14471564,"Outline of medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14678677,"Alcohol myopia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14802885,"Weevac 6",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+14934121,"Community first responder",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15036697,"Mental health triage",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15162439,"Community Health Accreditation Program",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15162636,"The Compliance Team",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15210886,"Emergency medical services in Italy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15266163,"Alcohol and Drug Foundation",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+15975602,"Healthcare in Algeria",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+16057614,"ACAM2000",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+16453539,"Acute (medicine)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+16541211,"Healthcare in Afghanistan",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+16563466,"Everyday carry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+17085856,"Emergency medical responder",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+17647662,"Almshouse (Cambridge, Massachusetts)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+17648590,"Illinois Eye and Ear Infirmary",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+17678334,"Lovaxin C",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+17836221,"Acantholysis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18006283,"MedStar National Rehabilitation Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18050832,"Tom Magrann",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18125422,"Pandemrix",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18129039,"Grady straps",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18423387,"Student Doctor Network",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18551039,"Coordinated Regional Incident Management (Netherlands)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18558535,"Rockland Almshouse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18958412,"Almshouse (Stoneham, Massachusetts)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+18965054,"Hospital Quality Incentive Demonstration",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19068774,"Health of Samuel Johnson",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19308446,"List of Hatzalah chapters",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19425095,"Emergency medical services in the Netherlands",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19468046,"Autoimmune disease",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19482983,"Emergency medical services in Israel",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19627485,"Glossary of clinical research",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19788853,"List of burn centers in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+19818769,"Ambulance station",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20034206,"Forme fruste",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20085663,"Wills Eye Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20153965,"AnMed Health Women's & Children's Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20469221,"Emergency Severity Index",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20542082,"Internal environment",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20547586,"NmVac4-A/C/Y/W-135",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20598535,"AIDS Vaccine Advocacy Coalition",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20614284,"Oculo-respiratory syndrome",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20640917,"Alternative medicine degrees",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20689902,"Ex juvantibus",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+20892041,"Phillips Eye Institute",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21053449,"Brucellosis vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21053458,"Cholera vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21053494,"Meningococcal vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21053550,"Measles vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21053651,"Hepatitis C vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21114139,"Adenovirus vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21225900,"Amelanism",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21476493,"Emergency medical services in Iceland",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21535235,"American Hospital Association",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21826111,"Caregiver stress",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+21861955,"Inactivated vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22012061,"AIDS Vaccine Bike Trek",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22148940,"List of eponymous fractures",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22258844,"List of abbreviations for diseases and disorders",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22308292,"Cycle responder",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22406107,"Field triage",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22570610,"Active mobility",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+22681451,"Catholic Church and HIV/AIDS",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+23224587,"2009 swine flu pandemic vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+23323278,"Gay bowel syndrome",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+23460073,"Absolute risk",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+23640750,"Antibiotic misuse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+23828717,"List of countries by total health expenditure per capita",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24217569,"List of accredited respiratory therapist programs",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24330814,"Friends' Almshouse of Philadelphia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24505051,"Height of curvature",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24534325,"Lincoln Detox",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24665596,"Health of Abraham Lincoln",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24731064,"Federative International Programme on Anatomical Terminology",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24809120,"Alcohol in Australia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24889591,"Collaborative Care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24909807,"Domestic medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24934154,"Decision aids",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+24934874,"Centro de Formação e Desenvolvimento dos Trabalhadores da Saúde de São Paulo",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+25149212,"FluBlok",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+25433426,"Abutment (dentistry)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+25653086,"Active placebo",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+26246757,"Current Dental Terminology",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+26929224,"Catastrophic schizophrenia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+27090911,"Arthropod bites and stings",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+27135835,"Demineralized freeze dried bone allograft",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+27197253,"Acropustulosis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+27197609,"Atrophoderma",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+27947105,"Emergency Language Systems",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28025681,"The Center for Healthcare Governance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28256568,"List of eponymous medical devices",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28292127,"List of eponymous surgical procedures",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28332710,"July effect",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28346449,"List of eponymous medical treatments",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28810868,"Global HIV Vaccine Enterprise",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28832428,"Advanced disaster management simulator",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28850805,"Possible monorchism of Adolf Hitler",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28854191,"List of medical eponyms with Nazi associations",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+28889542,"Health of Frédéric Chopin",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+29312372,"Omni mane",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+29699454,"Emergency medical services in Austria",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+29735583,"MenAfriVac",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+30066996,"Healthcare in Belgium",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+30068770,"Emergency medical services in Spain",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+30127601,"Emergency medical services in Portugal",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+31080134,"Hamilton Eye Institute",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+31241545,"Vermont State Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+31373406,"Healthcare in Austria",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+32040275,"Bascom Palmer Eye Institute",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+32993239,"Air medical services",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+33289263,"All-on-4",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+33373331,"Kirkland Besley",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+33629285,"Children's Country Home",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+34024745,"CimaVax-EGF",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+34268214,"Collaboration for AIDS Vaccine Discovery",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35005353,"Aircraft Incident Management Procedure (Netherlands)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35006770,"Thomas Stretcher",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35010720,"Anne Brooks",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35325698,"Healthcare in Albania",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35431425,"CVac",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35606289,"Rick Fraser (politician)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35659639,"Pediatric assessment triangle",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35738539,"List of deprecated terms for diseases",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+35912969,"Aeromedical Isolation Team",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+36131761,"Historical annual reformulations of the influenza vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+36236794,"Adverse vaccine reactions in pets",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+36615810,"Asia Catalyst",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+36771910,"Anatomical terms of neuroanatomy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+37488149,"Anthrax vaccine adsorbed",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+37958263,"2009 swine flu pandemic timeline summary",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38119804,"Quack Miranda warning",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38225516,"Regulation of alternative medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38375564,"Fatty acid ratio in food",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38467001,"Health consequences of the Deepwater Horizon oil spill",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38493462,"Adoption of electronic medical records in U.S. hospitals",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38612843,"Catholic Church and health care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+38892935,"Acholia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+39033541,"Slow code",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+39207484,"California rocket fuel",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+39307779,"Health effects of 3D",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+39584994,"NHS Pathways",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+39587117,"List of the oldest hospitals in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40223922,"Bayada Home Health Care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40364158,"Antibiotic use in livestock",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40603049,"Heterosubtypic immunity",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40680417,"Fairview District Home",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40891129,"Paul Bookout",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40988032,"Beaumont Hospital, Royal Oak",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+41101954,"Anatomical terminology",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+41491826,"Anatomical terms of muscle",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+41863493,"Emergency medical services in Iran",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+41882331,"Manchester Triage System",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+41886016,"Alice Bennett",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+42298695,"List of orthopaedic eponyms",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+42591787,"Axial line (dermatomes)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+43141668,"Hepatitis E vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+43519416,"Antonio Alamo Jr.",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+43637211,"America's Essential Hospitals",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+43839116,"Caregiving by country",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+44263754,"Aeromedical Biological Containment System",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+44579926,"American Family Children's Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+44788283,"John Cutting Berry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+45270031,"Craig Crawford (politician)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+45407793,"USC Eye Institute",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+46199685,"Daughter from California syndrome",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+46543004,"Baumann Skin Types",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+46889488,"John Thomas sign",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+47014055,"Deemed status",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+47675831,"Effects of Agent Orange on the Vietnamese people",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+47700020,"Caregiver burden",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+47901887,"Ameloblastic carcinoma",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+48270077,"Activities of daily living assistance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+48429002,"List of biogerontologists",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+48885362,"Healthcare in Bahrain",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+48951616,"Primary Care Progress",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+49376370,"JumpSTART triage",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+49411786,"Retroperitonium",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+49627903,"Health effects of coal ash",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+49718769,"Catholic Health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+50015690,"Attachment and health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+50673950,"Pacific Open Learning Health Net",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+50951887,"List of antimicrobial peptides in the female reproductive tract",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+51845690,"Alcohol intolerance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52128450,"Ethical and Religious Directives for Catholic Health Care Services",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52286989,"Critical Access Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52733245,"Androvax",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52806066,"Health of Hillary Clinton",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+52932908,"Barrow Neurological Institute at Phoenix Children's",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+53031520,"Health impact of asbestos",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+54031861,"List of sanatoria in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+54256234,"9-1-1 (TV series)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+54418352,"Abrasion collar",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+54848869,"Alcohol and pregnancy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+54861778,"Emergency medical services in Finland",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55014897,"Emergency medical services in Russia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55095974,"Healthcare in Azerbaijan",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55133810,"Dendritic cell-based cancer vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55374784,"Healthcare in Angola",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55442250,"Georgetown Lombardi Comprehensive Cancer Center",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55784908,"Aamin Ambulance",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+55868631,"List of antibiotic-resistant bacteria",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+56523295,"BS 8599",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+56617262,"Anatomical terms of microanatomy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+56661462,"Amenomania",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57177527,"Cancer vaccine targeting CD4+ T cells",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57233472,"Glossary of medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57533658,"United Medical Center",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57766017,"DTaP-IPV vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57766524,"DTaP-IPV/Hib vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57766600,"DTaP-IPV-HepB vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57766938,"DPT-Hib vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57770802,"DTaP-Hib vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57774849,"Haemophilus B and hepatitis B vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57782216,"Hepatitis A and typhoid vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+57901919,"DTP-HepB vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+58240033,"Mental health of Jesus",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+58293866,"Bon Secours (Virginia & South Carolina)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+58548643,"AKTIP (therapeutic institute)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+58569068,"List of countries by maternal mortality ratio",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+58609793,"List of anatomy mnemonics",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60332287,"Medical surge",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60351690,"Tertiary dentin",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60469909,"Mercy Plane",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60495731,"Daria Hazuda",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60580287,"Lee A. Wallis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60606212,"Terminology of alternative medicine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60663090,"List of diet food and fad diet creators",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60692674,"Anatid alphaherpesvirus 1",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60732425,"List of countries by antidepressant consumption",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+60983657,"Beef cattle vaccination in Australia",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+61155081,"Cycling mobility",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+61510751,"EFAR System Model",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+61518737,"Aquatic Animal Health Code",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+61549827,"Wilfried Klenk",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+61681690,"Providence Hospital (Wallace, Idaho)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+62486544,"Activated charcoal cleanse",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+62505411,"List of trauma centers in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+62923253,"Aesthetic anterior composite restoration",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+62950092,"Dental aerosol",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63040899,"Animal vaccination",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63158315,"Esther Arditi",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63319438,"COVID-19 vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63420370,"List of children's hospitals in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63467621,"Ascension (healthcare system)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63539430,"Dara Kass",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63575420,"Uché Blackstock",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63650920,"Advocate Children's Hospital",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63914686,"River Ambulance Service",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63945981,"Isolation pod",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+63967146,"Benefits of physical activity",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64251786,"Goal-oriented health care",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64335049,"Steve Hofbauer",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64401977,"IPPOSI",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64402342,"European Platform for Patients' Organisations, Science and Industry",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64427398,"Global action plan for influenza vaccines",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64444145,"List of AdventHealth hospitals",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64523717,"AMITA Health",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64550872,"Katie Doores",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+64630578,"Fire and Disaster Management Agency",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+65084949,"CoronaVac",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+65365781,"COVAX",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+65516931,"Courtney Howard",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+65738118,"Formularium Slovenicum",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+65863631,"Western Cape Blood Service",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66018844,"ChAdOx1",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66091458,"Covaxin",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66111834,"Health of Basshunter",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66227162,"St John Ambulance PNG",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66254045,"Clinical collaboration",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66300917,"Care drain",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66426813,"History of COVID-19 vaccine development",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+66553260,"COVIran Barekat",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67091267,"CoviVac (Russia COVID-19 vaccine)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67134361,"List of COVID-19 vaccine authorizations",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67243593,"List of stroke centers in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67257205,"Embolic and thrombotic events after COVID-19 vaccination",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67278807,"Chinese Academy of Medical Sciences COVID-19 vaccine",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67349370,"Community diagnosis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67353409,"Lady Ganga",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67381531,"COVID-19 breakthrough infection",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67547877,"John Keith McCreanor",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67894241,"COVI-VAC (U.S. COVID-19 vaccine)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+67951357,"FAKHRAVAC",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+68140106,"Ezras Nashim",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+68367201,"Announcement of polio vaccine success",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+68597435,"COVID-19 vaccine clinical research",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+68714331,"COVID-19 vaccine misinformation and hesitancy",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+68784627,"Madeline Bell (hospital executive)",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69234376,"1970 Lincoln Hospital takeover",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69324417,"List of public hospitals in the United States",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69712784,"Initiative for Medicines, Access, and Knowledge",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69806776,"PariSanté Campus",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+69841931,"Carnivac-Cov",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+70070165,"Glossary of psychoanalysis",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+70182808,"Menopause in incarceration",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+70205737,"John Babiiha",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+70266735,"Lagos State Primary Healthcare Board",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+70430356,"COVID-19 vaccine side effects",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
